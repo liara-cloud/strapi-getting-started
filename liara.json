@@ -4,5 +4,9 @@
             "name": "media",
             "mountTo": "/app/public/uploads"
         }
-    ]
+    ],
+    
+    "node": {
+        "version": "14"
+      }
 }
